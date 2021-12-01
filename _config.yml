@@ -83,7 +83,7 @@ author:
   name             : "Saqeeb Hassan"
   avatar           : "1_4229.jpg"
   bio              : "MSc. MRI image processing and sequence development."
-  # location         : "Location"
+  location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
